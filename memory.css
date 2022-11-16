@@ -17,3 +17,15 @@
     height : 100%;
     display : none;
 }
+#gameOver{
+    position : absolute ; 
+    top : 40%;
+    left : 30%;
+    background-color: red;
+    border : 2px solid ;
+    /* height : 15%; */
+    /* width : 40%; */
+    text-align: center;
+    padding: 10%;
+    display: none
+}
